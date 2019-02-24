@@ -1,0 +1,6 @@
+framework module Pods_app___nodeConection {
+  umbrella header "Pods-app + nodeConection-umbrella.h"
+
+  export *
+  module * { export * }
+}
